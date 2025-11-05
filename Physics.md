@@ -98,7 +98,7 @@ The diagram will look like this:
 A down quark changes into an up quark by emitting a W$^-$ boson, which then decays into an electron and an antineutrino. Diagram: d → u + W⁻, followed by W⁻ → e⁻ + ν̄ₑ.
 
 The diagram will look like this:
-![Alt text]({{ '/assets/images/Pasted image 20250830131007' | relative_url }})
+![Alt text]({{ '/assets/images/Pasted image 20250830131007.png' | relative_url }})
 
 
 
