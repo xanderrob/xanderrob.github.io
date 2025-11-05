@@ -200,13 +200,13 @@ Where $V_p$ and $V_s$ are primary/secondary voltages, and $n_p$ and $n_s$ are nu
 
 # Coulomb’s Law
 
-$$F=\frac{1}{4\pi\epsilon_0}\frac{Qq}{r^2}$$
+$$F=\frac{1}{4\pi\epsilon_0}\frac{Qq}{r^2}$$ <br>
 Where $\frac{1}{4\pi\epsilon_0}$ is Coulomb’s constant (value in the formula booklet). The questions on this topic will be mostly calculating something using this formula or another one from the formula sheet.
 # Special Relativity
 
 Moving clocks run slow. 
 
-$$t=\frac{t_0}{\sqrt{1-\frac{v^2}{c^2}}}$$
+$$t=\frac{t_0}{\sqrt{1-\frac{v^2}{c^2}}}$$ <br>
 Where $t$ is the time measured by the stationary observer in their own reference frame, and $t_0$ is the proper time, which is the time measured by the observer moving with the clock or event.
 
 
@@ -215,20 +215,18 @@ Where $t$ is the time measured by the stationary observer in their own reference
 **Key idea**
 A blackbody is a body that absorbs 100% of all electromagnetic radiation AND emits 100% of all electromagnetic radiation.
 
-$W=NkT$
-$N = \text{number of particles}$
-$kT = \text{on average energy}$
+$W=NkT$     $N = \text{number of particles}$     $kT = \text{on average energy}$ <br>
 Some particles have much higher energy than others
 
 ## Planck
 In order to obtain agreement with the experimental curves, Planck assumed that each atomic oscillator could only have have discrete values of energy (E). 
 
-i.e. $E=0$, $E=hf$ $E=2hf$ $E=3hf$
+i.e. $E=0$, $E=hf$  $E=2hf$   $E=3hf$ <br>
 $E=nhf$
 
 Conservation of energy requires tht the energy carried off by the radiated EM waves = energy lost by the atomic oscillator. There are not many particles with high frequencies (or low wavelengths) and each particle has a discret amount of energy. The radiation curve decreases for $\lambda > \lambda_{\text{max}}$.
 
-$E=\frac{8\pi hc}{\lambda^{5}\times}\frac{1}{}$
+$E=\frac{8\pi hc}{\lambda^{5}\times}\frac{1}{}$    (SECTION INCOMPLETE)
 ## Rayleigh-Jeans Law
 
 $I=\frac{2ckT}{\lambda^4}$
