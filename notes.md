@@ -1,8 +1,8 @@
 ---
 layout: default
 title: External Revision
-nav_order: 4
 has_children: true
+nav_order: 2
 ---
 # External Revision
 

@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Physics
-# (Just the Docs extra, if you want sidebar ordering)
-nav_order: 1
 parent: External Revision
+nav_order: 1
 ---
 
 
