@@ -41,7 +41,7 @@ The W$^\pm$ bosons have either a positive or negative electric charge of 1 el
 The photon is also its own antiparticle.
 
 The summary of the standard model is shown here:
-![[Pasted image 20250830114517.png]]
+![Alt text]({{ '/assets/images/Pasted image 20250830114517.png' | relative_url }})
 
 ## Quick summary:
 
@@ -86,24 +86,24 @@ Every diagram must obey conservation of:
 Two electrons repel, exchanging a photon. Diagram: two straight lines (e⁻, e⁻) with a photon line (γ) between them.
 
 The diagram will look like this:
-![[Pasted image 20250830130802.png|500]]
+![Alt text]({{ '/assets/images/Pasted image 20250830130802.png' | relative_url }})
 
 ### Electron-positron annihilation
 An electron and a positron meet, annihilate, and produce photons. Diagram: e⁻ and e⁺ lines meet at a vertex, with photons emitted.
 
 The diagram will look like this:
-![[Pasted image 20250830130932.png|500]]
+![Alt text]({{ '/assets/images/Pasted image 20250830130932.png' | relative_url }})
 
 ### Beta decay (neutron → proton)
 A down quark changes into an up quark by emitting a W$^-$ boson, which then decays into an electron and an antineutrino. Diagram: d → u + W⁻, followed by W⁻ → e⁻ + ν̄ₑ.
 
 The diagram will look like this:
-![[Pasted image 20250830131007.png]]
+![Alt text]({{ '/assets/images/Pasted image 20250830131007' | relative_url }})
 
 
 
 # Atomic Spectra
-![[Pasted image 20250831104835.png|450]]
+![Alt text]({{ '/assets/images/Pasted image 20250831104835.png' | relative_url }})
 Above is an energy level/atomic spectra diagram for hydrogen.
 
 The equations relevant to this topic:
