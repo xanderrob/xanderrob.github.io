@@ -1,9 +1,12 @@
 ---
-layout: default
-title: Digital Solutions
-# (Just the Docs extra, if you want sidebar ordering)
-nav_order: 2
-parent: External Revision
+title: Digital Solutions Revision
+date: 2025-08-27
+updated: 2025-08-27 13:02
+tags:
+  - digital
+  - external
+status: draft
+type: note
 ---
 
 # Topics Overview
@@ -117,6 +120,50 @@ A virtual private network (VPN) is an encrypted connection between two network d
 # Data Exchange Methods
 REST, JSON, and XML
 
+## REST
+REST is an API design style using HTTP methods (GET, POST, etc) to access and modify resources, emphasising stateless interactions and clear structure.
+## JSON
+JavaScript Object Notation is a text based easy to read format for exchanging data. Uses curly braces for objects and square brackets for arrays.
+
+JSON data follows this format:
+{ "key1":"value1", "key2":"value2", "key3":"value3",...}
+
+Each key is a different category of data. For example, species of pygmy possums in the wildlife open dataset
+managed by the Queensland Department of Environment and Heritage are represented in JSON like this:
+
+```
+{"Species":[
+	{"TaxonID":917,
+		"ScientificName":"Cercartetus caudatus",
+		"AcceptedCommonName":"long-tailed pygmy-possum",
+		"FamilyName":"Burramyidae",
+		"FamilyCommonName”:"pygmy-possums"},
+	{"TaxonID":918,
+		"ScientificName":"Cercartetus nanus",
+		"AcceptedCommonName”:"eastern pygmy-possum",
+		"FamilyName":"Burramyidae",
+		"FamilyCommonName":"pygmy-possums"},
+	{"TaxonID":919,
+		"ScientificName":"Cercartetus sp.",
+		"FamilyName":"Burramyidae",
+		"FamilyCommonName":"pygmy-possums"}
+]}
+```
+
+## XML
+Extensible Markup Language uses structured text files for data storage/transport. Uses tags to label data and enforce rules with schemas.
+
+```
+<dataset>
+	<record>
+		<key1>value1</key1>
+		<key2>value2</key2>
+		<key3>value3</key3>
+	</record>
+</dataset>
+```
+
+
 # Encryption
 
 ## Encryption & Authentication
@@ -195,10 +242,22 @@ Utility can be best described as the ability of different systems to provide inf
 
 # Usability Principles
 
+The usability principles are: Effectiveness, Safety, Accessibility, Utility, Learnability. 
+This can be remembered as EASUL (as in easel). 
+# UI/UX
+## Principles of  Visual Communication
 
+These are the CARP rule, or CRAP BHH (for full coverage).
+These are the rules for how to arrange the elements to create a successful composition.
 
+Contrast, Repetition, Alignment, Proximity, Balance, Hierachy, Harmony.
 
+## Elements of Visual Communication
 
+An acronym for the elements of communication is STeaLS FooT PiCS. Only the consonants are part of the acronym, making it easy to recall.
+The elements of visual communication are the basic building blocks of visual communication. 
+
+Shape, Texture, Line, Scale, Form, Tone, Proportion, Colour, Space.
 
 # Ciphers
 
@@ -238,6 +297,9 @@ BEGIN
 END
 ```
 
+QSH Solution
+![[Pasted image 20251105204502.png]]
+
 ## Gronsfeld
 
 ```
@@ -267,8 +329,10 @@ BEGIN 
 END
 ```
 
+QSH Solution
+![[Pasted image 20251105204513.png]]
 
-## Vigenere Cipher
+## Vigenere Cipher (Identing is broken)
 
 ```
 BEGIN 
@@ -302,3 +366,5 @@ OUTPUT eMessage 
 END
 ```
 
+QSH Solution
+![[Pasted image 20251105204436.png]]
