@@ -1,12 +1,9 @@
 ---
-title: Digital Solutions Revision
-date: 2025-08-27
-updated: 2025-08-27 13:02
-tags:
-  - digital
-  - external
-status: draft
-type: note
+layout: default
+title: Digital Solutions
+# (Just the Docs extra, if you want sidebar ordering)
+nav_order: 2
+parent: External Revision
 ---
 
 # Topics Overview

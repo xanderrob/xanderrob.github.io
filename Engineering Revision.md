@@ -1,15 +1,12 @@
 ---
-title: Engineering Revision
-date: 2025-08-20
-updated: 2025-08-20 08:03
-tags:
-  - engineering
-  - school
-  - "#external"
-status: draft
-type: note
-banner: "![[thumbnail_image.png]]"
+layout: default
+title: Engineering
+# (Just the Docs extra, if you want sidebar ordering)
+nav_order: 3
+parent: External Revision
 ---
+
+
 # Syllabus
 ## Topic 1: Machines in Society
 - explore engineering careers that involve machines and/or mechanisms, including mechanical, mechatronic and biomechanical engineering
