@@ -140,29 +140,32 @@ From the textbook:
 Lenard shone light on the metal in the cathode ray tube and varied the frequency. Nothing
 happened until the frequency was in the ultraviolet region, then a current started to flow. The
 UV light had caused electrons to be ejected from the metal and pass through the vacuum to
-the anode. He called this the threshold frequency, f0
-. As he increased the frequency past
+the anode. He called this the threshold frequency, $f_0$. As he increased the frequency past
 this minimum, the electrons became faster and faster with more and more kinetic energy.
 Lenard then repeated the experiment with increased intensity (brightness). Again, nothing
 happened until he reached the threshold frequency. However, once the threshold was reached,
 the more intense the light the bigger the current. He then tried different metals and found
-different threshold frequencies for each. This is a summary of his findings:
+different threshold frequencies for each. 
+
+This is a summary of his findings:<br>
 • Electrons were ejected from the metal only if the frequency of the incident light exceeded
-a minimum value called the threshold frequency, f0
-• The threshold frequency was different for various metals.
+a minimum value called the threshold frequency, $f_0$<br>
+• The threshold frequency was different for various metals.<br>
 • If the frequency was below the threshold value, electrons were not ejected and there was
-no flow of photocurrent, not even when very intense light was used.
+no flow of photocurrent, not even when very intense light was used.<br>
 • Once a photocurrent is registered, increasing the incident light intensity increased the
-amount of photocurrent flowing.
+amount of photocurrent flowing.<br>
 • Light of a frequency higher than the threshold increased the kinetic energy of the ejected
-electrons.
+electrons.<br>
 
 ## Experiment 2: Varying the voltage
 Lenard then experimented with the voltage. He left the light shining on the tube at a
 frequency greater than threshold so that a current was flowing. When he increased the
 voltage, V, the current didn’t change. He reversed the battery and made the anode negative
 with respect to the cathode. Thus, the voltage was now negative. This was causing the
-cathode to repel the ejected electrons. Lenard kept increasing the voltage in the negative
+cathode to repel the ejected electrons. 
+
+Lenard kept increasing the voltage in the negative
 direction and noticed that the current decreased. At a certain voltage the current reached
 zero. The reverse voltage was now large enough to stop the photocurrent completely. He
 called this the stopping potential, also known as the reverse cut-off voltage, Vc
