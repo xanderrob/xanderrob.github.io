@@ -26,6 +26,11 @@ url: "https://xanderrob.github.io" # the base hostname & protocol for your site,
 twitter_username: 
 github_username: xanderrob
 
+remote_theme: just-the-docs/just-the-docs
+
+just_the_docs:
+  search_enabled: true
+  color_scheme:       # or "light" / omit for auto
 # Build settings
 theme: jekyll-theme-cayman
 plugins:
