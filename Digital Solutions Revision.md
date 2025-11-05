@@ -302,8 +302,3 @@ OUTPUT eMessage 
 END
 ```
 
-
-
-1. recognise and describe programming elements, components of exchange systems, privacy principles and data exchange processes 2. symbolise and explain programming ideas, data specifications, data exchange processes, and data flow within and between systems 3. analyse problems and information related to a digital problem 5. synthesise information and ideas to determine possible low-fidelity components of secure data exchange solutions 7. evaluate impacts, components and solutions against criteria to make refinements and justified recommendations
-
-2. recognise and describe elements, components, principles and processes ● ● ● ● 2. symbolise and explain information, ideas and interrelationships ● ● ● ● 3. analyse problems and information ● ● ● ● 4. determine solution requirements and criteria ● ● ● ● 5. synthesise information and ideas to determine possible digital solutions ● ● ● ● 6. generate components of the digital solution ● ● ● ● 7. evaluate impacts, components and solutions against criteria to make refinements and justified recommendations ● ● ● ● 8. make decisions about and use mode-appropriate features, language an
