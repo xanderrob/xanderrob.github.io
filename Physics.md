@@ -183,7 +183,7 @@ Lenz’s law is one expression of a fundamental law of nature: the law of conser
 
 Faraday’s law states that the induced electromotive force (emf) in a circuit is equal to the negative rate of change of magnetic flux through the circuit.
 
-$$\mathrm{emf}=-n\frac{\Delta \phi}{\Delta t}$$     $$\mathrm{emf}=-\frac{n\Delta(BA_\perp)}{\Delta t}$$
+$$\mathrm{emf}=-n\frac{\Delta \phi}{\Delta t}$$  &nbsp;  $$\mathrm{emf}=-\frac{n\Delta(BA_\perp)}{\Delta t}$$
 - $n$ = number of turns in the coil
 - $B$ = magnetic field strength (tesla)
 - $A_\perp$= perpendicular area to the field (m²)
@@ -194,7 +194,7 @@ $$\mathrm{emf}=-n\frac{\Delta \phi}{\Delta t}$$     $$\mathrm{emf}=-\frac{n\Delt
 
 ## Transformer Equations
 
-$$I_pV_p=I_sV_s$$       $$\frac{V_p}{V_s}=\frac{n_p}{n_s}$$
+$$I_pV_p=I_sV_s$$  &nbsp;   $$\frac{V_p}{V_s}=\frac{n_p}{n_s}$$
 
 Where $V_p$ and $V_s$ are primary/secondary voltages, and $n_p$ and $n_s$ are number of turns.
 
@@ -215,13 +215,13 @@ Where $t$ is the time measured by the stationary observer in their own reference
 **Key idea**
 A blackbody is a body that absorbs 100% of all electromagnetic radiation AND emits 100% of all electromagnetic radiation.
 
-$W=NkT$     $N = \text{number of particles}$     $kT = \text{on average energy}$ <br>
+$W=NkT$   &nbsp; $N = \text{number of particles}$   &nbsp; $kT = \text{on average energy}$ <br>
 Some particles have much higher energy than others
 
 ## Planck
 In order to obtain agreement with the experimental curves, Planck assumed that each atomic oscillator could only have have discrete values of energy (E). 
 
-i.e. $E=0$, $E=hf$  $E=2hf$   $E=3hf$ <br>
+i.e. $E=0$, &nbsp; $E=hf$ &nbsp; $E=2hf$  &nbsp; $E=3hf$ <br>
 $E=nhf$
 
 Conservation of energy requires tht the energy carried off by the radiated EM waves = energy lost by the atomic oscillator. There are not many particles with high frequencies (or low wavelengths) and each particle has a discret amount of energy. The radiation curve decreases for $\lambda > \lambda_{\text{max}}$.
