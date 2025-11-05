@@ -168,9 +168,9 @@ zero. The reverse voltage was now large enough to stop the photocurrent complete
 called this the stopping potential, also known as the reverse cut-off voltage, Vc
 form: V = −Vc. This behaviour is shown in Figure 4a.
 
-$E_k=hf-W$ 
-$E_k=hf-hf_0$  
-$E_k=qV_c$ 
+$E_k=hf-W$
+$E_k=hf-hf_0$
+$E_k=qV_c$
 $\frac{1}{2}mv^2=hf-hf_0$
 $\frac{1}{2}mv^2=qV_c$
 
