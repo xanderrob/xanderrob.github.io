@@ -32,7 +32,6 @@ just_the_docs:
   search_enabled: true
   color_scheme:       # or "light" / omit for auto
 # Build settings
-theme: jekyll-theme-cayman
 plugins:
 
 
