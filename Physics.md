@@ -183,8 +183,7 @@ Lenz’s law is one expression of a fundamental law of nature: the law of conser
 
 Faraday’s law states that the induced electromotive force (emf) in a circuit is equal to the negative rate of change of magnetic flux through the circuit.
 
-$$\mathrm{emf}=-n\frac{\Delta \phi}{\Delta t}$$
-$$\mathrm{emf}=-\frac{n\Delta(BA_\perp)}{\Delta t}$$
+$$\mathrm{emf}=-n\frac{\Delta \phi}{\Delta t}$$     $$\mathrm{emf}=-\frac{n\Delta(BA_\perp)}{\Delta t}$$
 - $n$ = number of turns in the coil
 - $B$ = magnetic field strength (tesla)
 - $A_\perp$= perpendicular area to the field (m²)
@@ -195,8 +194,7 @@ $$\mathrm{emf}=-\frac{n\Delta(BA_\perp)}{\Delta t}$$
 
 ## Transformer Equations
 
-$$I_pV_p=I_sV_s$$
-$$\frac{V_p}{V_s}=\frac{n_p}{n_s}$$
+$$I_pV_p=I_sV_s$$       $$\frac{V_p}{V_s}=\frac{n_p}{n_s}$$
 
 Where $V_p$ and $V_s$ are primary/secondary voltages, and $n_p$ and $n_s$ are number of turns.
 
