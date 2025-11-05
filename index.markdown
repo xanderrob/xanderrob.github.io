@@ -7,4 +7,3 @@ title: ""
 # Welcome
 
 - [Physics](./Physics)
-- [About](./about)
