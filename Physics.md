@@ -87,6 +87,11 @@ Two electrons repel, exchanging a photon. Diagram: two straight lines (e⁻, e�
 The diagram will look like this:
 ![Alt text]({{ '/assets/images/Pasted image 20250830130802.png' | relative_url }})
 
+### Electron-positron scattering (Bhabha scattering)
+![Alt text]({{ '/assets/images/Pasted image 20251109144304.png' | relative_url }})
+
+At the moment of interaction they exchange a virtual photon (γ) and scatter off each other with just their velocities changed.
+
 ### Electron-positron annihilation
 An electron and a positron meet, annihilate, and produce photons. Diagram: e⁻ and e⁺ lines meet at a vertex, with photons emitted.
 
